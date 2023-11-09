@@ -9,6 +9,12 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-image: url('./assets/yellow-white.jpeg');
+  background-size: cover; /* Adjust as needed */
+  background-repeat: repeat;
+  height: 100vh; /* Ensure full viewport height */
+  margin: 0; /* Remove default margin */
+
 }
 
 html {
@@ -59,7 +65,8 @@ a:hover {
 }
 
 .logo {
-  font-size: 2rem;
+  font-size: 3rem;
+  color:black;
 }
 
 .logo:hover {
@@ -97,7 +104,7 @@ a:hover {
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: white;
+  background-color: none;
   width: fit-content;
   max-height: 0;
   overflow: hidden;
