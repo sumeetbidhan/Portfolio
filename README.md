@@ -16,10 +16,10 @@ Access the site: https://sumeetbidhan.github.io/Portfolio/
 
 Here are some of the key projects featured in this portfolio:
 
-- **Project 1:** [BlogHarmony](sumeetbidhan.github.io/MyBlog/)
+- **Project 1:** [BlogHarmony](https://sumeetbidhan.github.io/MyBlog/)
   - BlogHarmony is a simple and elegant blog website created with HTML, CSS, and JavaScript.
   
-- **Project 2:** [WeatherApp](sumeetbidhan.github.io/WeatherApp/)
+- **Project 2:** [WeatherApp](https://sumeetbidhan.github.io/WeatherApp/)
   - Brief description of the project and its significance.
 
 - **Project 3:** [Wordel](link)
