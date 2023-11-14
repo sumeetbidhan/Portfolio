@@ -1,6 +1,5 @@
 # Portfolio
 
-# My Portfolio
 
 Welcome to my GitHub portfolio! This is a showcase of my work and skills, created using HTML, CSS, and a touch of JavaScript. Feel free to explore the projects, learn more about me, and get in touch.
 
@@ -9,6 +8,10 @@ Welcome to my GitHub portfolio! This is a showcase of my work and skills, create
 
 This portfolio is a representation of my journey as a developer. It includes a collection of projects that highlight my technical skills and creativity. The site is designed to be user-friendly and visually appealing, providing an easy way for visitors to navigate through my work.
 
+Access the site: https://sumeetbidhan.github.io/Portfolio/
+
+![Site overview](./assets/portfolioscreen.png)
+
 ## Projects
 
 Here are some of the key projects featured in this portfolio:
@@ -16,7 +19,7 @@ Here are some of the key projects featured in this portfolio:
 - **Project 1:** [BlogHarmony](sumeetbidhan.github.io/MyBlog/)
   - BlogHarmony is a simple and elegant blog website created with HTML, CSS, and JavaScript.
   
-- **Project 2:** [WeatherApp](link)
+- **Project 2:** [WeatherApp](linkhttps://sumeetbidhan.github.io/WeatherApp/)
   - Brief description of the project and its significance.
 
 - **Project 3:** [Wordel](link)
