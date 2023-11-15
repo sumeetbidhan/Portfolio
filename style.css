@@ -295,6 +295,13 @@ section {
   display: flex;
 }
 
+.text-container{
+  font-size: 18px;
+  font-weight: bold;
+  
+  
+}
+
 .about-pic {
   border-radius: 2rem;
 }
